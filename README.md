@@ -1,2 +1,1 @@
-# main-Countries-Analysis
-Countries-Analysis
+Countries and their city's analysis using Java Using Cities and Countries dataSets to implement some of the famous concepts in java Like Pojo,Dao classes implementation Reading csv files , Creating hashmaps ,Sorting , Getting Average,maximum and Highest population cities and countries using streams.
